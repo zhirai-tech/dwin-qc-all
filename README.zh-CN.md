@@ -1,6 +1,6 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-# DWIN 网站项目
+# 网站质检与部署工具
 
 DWIN 网站项目的前端、QC 和 Directus 部署文件仓库。
 
