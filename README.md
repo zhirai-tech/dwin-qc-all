@@ -1,6 +1,6 @@
 [English](README.md) | [简体中文](README.zh-CN.md)
 
-# DWIN Website
+# Website QC & Deployment Tool
 
 Frontend, QC and Directus deployment files for the DWIN website.
 
