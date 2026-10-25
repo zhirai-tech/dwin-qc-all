@@ -1,5 +1,10 @@
 # DWIN Website / DWIN 网站项目
 
+> **English** | [简体中文](#简体中文)
+>
+> Frontend, QC and Directus deployment files for the DWIN website. No source content is currently published in this repository; refer to the actual repository files and release history.
+
+
 > **简体中文 | English**
 >
 > DWIN 网站项目的前端、QC 和 Directus 部署文件仓库。当前仓库暂未发布源码内容；请以仓库实际文件和发布记录为准。
